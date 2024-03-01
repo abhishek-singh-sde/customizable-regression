@@ -1,5 +1,5 @@
 # customizable-regression
-DataSet i.e. newdata.xlsx is a collection of the readings of various parameters taken over different periods from a LF (Ladle Furnace) in Tata Steel and in our case, TEMP_DIFF is the target variable.
+DataSet i.e. newdata.xlsx is a collection of the readings of various parameters taken over different periods from a LF (Ladle Furnace) and in our case, TEMP_DIFF is the target variable.
 
 Customizable regression is a simple menu-driven python script where the user can select the regression technique, feature selection technique, test size, etc (from the available options) to perform regression over a given data set with minimal changes in the code and see the accuracy score, MAE, MSE, RMSE, etc. 
 
